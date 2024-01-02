@@ -1,0 +1,1 @@
+# objaverse_to_nerf
